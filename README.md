@@ -8,10 +8,14 @@ Please follow the structure below exactly.
 ---
 
 ## Repository Structure
+
 /
 ├── analysis/
+
 ├── code/
+
 ├── TRACEABILITY.md
+
 └── README.md
 
 
