@@ -22,7 +22,7 @@ Please follow the structure below exactly.
 
 ---
 
-## `/analysis/` — Design & Planning
+## `/analysis-design/` — Design & Planning (Optional)
 This folder is for **thinking and planning**, not coding.
 
 Put here:
@@ -50,6 +50,25 @@ Put here:
 
 Think of this folder as answering:
 > *How is the system actually built?*
+
+## How to Compile and Run
+
+You can compile and run this project from your terminal.
+
+1.  Navigate to the `code` directory:
+    ```sh
+    cd code
+    ```
+
+2.  Make the run script executable (you only need to do this once):
+    ```sh
+    chmod +x run.sh
+    ```
+
+3.  Execute the script:
+    ```sh
+    ./run.sh
+    ```
 
 ---
 
