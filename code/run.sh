@@ -2,5 +2,5 @@
 set -e
 rm -rf out
 mkdir -p out
-javac -d out $(find src -name "*.java")
-java -cp out app.Main
+javac -d out $(find . -name "*.java")
+java -cp out code.Main
